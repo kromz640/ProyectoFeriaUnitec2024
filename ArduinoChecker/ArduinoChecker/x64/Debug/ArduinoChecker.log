@@ -1,0 +1,6 @@
+﻿  ArduinoChecker.cpp
+C:\Users\rroqu\OneDrive\Documentos\Proyecto Feria\ArduinoChecker\ArduinoChecker.cpp(89,62): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(4672,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  main.cpp
+  Generating Code...
+  ArduinoChecker.vcxproj -> C:\Users\rroqu\OneDrive\Documentos\Proyecto Feria\ArduinoChecker\x64\Debug\ArduinoChecker.exe
