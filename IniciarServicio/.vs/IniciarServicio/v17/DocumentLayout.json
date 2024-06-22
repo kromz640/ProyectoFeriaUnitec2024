@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\IniciarServicio\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CD445A1E-143F-492D-A134-C09BCB8E7833}|IniciarServicio.vcxproj|C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\IniciarServicio\\IniciarServicio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD445A1E-143F-492D-A134-C09BCB8E7833}|IniciarServicio.vcxproj|solutionrelative:IniciarServicio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IniciarServicio.cpp",
-              "DocumentMoniker": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\IniciarServicio\\IniciarServicio.cpp",
-              "RelativeDocumentMoniker": "IniciarServicio.cpp",
-              "ToolTip": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\IniciarServicio\\IniciarServicio.cpp*",
-              "RelativeToolTip": "IniciarServicio.cpp*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-21T07:34:20.664Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
