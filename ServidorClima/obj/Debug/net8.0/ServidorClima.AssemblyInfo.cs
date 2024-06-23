@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServidorClima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692f71b3c4915230b4496463767810db0facb8e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf10d0d20e16dd372d1829d992b8e7e72931431")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServidorClima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServidorClima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

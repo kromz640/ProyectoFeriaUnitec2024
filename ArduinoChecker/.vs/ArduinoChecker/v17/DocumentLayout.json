@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\ArduinoChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|solutionrelative:ArduinoChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\ArduinoChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|solutionrelative:ArduinoChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA509F81-1DB3-4919-9A13-A69B756751BA}|ArduinoChecker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-21T05:12:34.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ArduinoChecker.h",
               "DocumentMoniker": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\ArduinoChecker.h",
               "RelativeDocumentMoniker": "ArduinoChecker.h",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ArduinoChecker.cpp",
               "DocumentMoniker": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\ArduinoChecker.cpp",
               "RelativeDocumentMoniker": "ArduinoChecker.cpp",
               "ToolTip": "C:\\Users\\rroqu\\OneDrive\\Documentos\\Proyecto Feria\\ArduinoChecker\\ArduinoChecker.cpp",
               "RelativeToolTip": "ArduinoChecker.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-21T05:10:42.157Z",
               "EditorCaption": ""

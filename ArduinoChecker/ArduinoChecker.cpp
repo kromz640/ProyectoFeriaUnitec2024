@@ -19,33 +19,33 @@ int ArduinoChecker::verificarConexion()
 
     if (hSerial == INVALID_HANDLE_VALUE) {
         cerr << "Error al abrir el puerto " << string(puertoCom.begin(), puertoCom.end()) << ".\n";
-        return 0; // No hay conexión
+        return 0; 
     }
 
     if (!configurarPuertoSerie()) {
         cerrarPuerto();
-        return 0; // No hay conexión
+        return 0; 
     }
 
     const string comando = "GET_MODEL\n";
     if (!enviarComando(comando)) {
         cerrarPuerto();
-        return 0; // No hay conexión
+        return 0; 
     }
 
     char respuesta[100];
     DWORD bytesLeidos;
     if (!leerRespuesta(respuesta, sizeof(respuesta) - 1, bytesLeidos)) {
         cerrarPuerto();
-        return 0; // No hay conexión
+        return 0; 
     }
 
-    respuesta[bytesLeidos] = '\0'; // Asegurar el final de la cadena
+    respuesta[bytesLeidos] = '\0'; 
 
     cout << "Placa conectada, modelo: " << respuesta << endl;
 
     cerrarPuerto();
-    return 1; // Hay conexión
+    return 1; 
 }
 
 bool ArduinoChecker::configurarPuertoSerie()

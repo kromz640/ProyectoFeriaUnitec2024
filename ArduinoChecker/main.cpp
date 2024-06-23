@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    wcout << L"Verificando conexión con Arduino en COM5..." << endl;
+    wcout << L"Probando conexion en COM5..." << endl;
 
     auto start = chrono::high_resolution_clock::now();
 
@@ -21,12 +21,12 @@ int main()
     }
 
     ArduinoChecker verificador(L"COM5", CBR_9600);
+    
     int resultado = verificador.verificarConexion();
 
     cout << (resultado == 1 ? "Placa conectada, OK STATUS" : "Placa no conectada, verifica las conexiones") << endl;
-
     cout << "Presiona cualquier tecla para continuar..." << endl;
-    cin.get(); // Esperar una entrada del usuario antes de cerrar
+    cin.get();
 
     return resultado;
 }
