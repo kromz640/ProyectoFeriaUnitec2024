@@ -15,14 +15,14 @@ void setup() {
 void loop() {
   float temperatura = bmp.readTemperature();
   float presion = bmp.readPressure() / 100.0F;  // Convertir Pa a hPa
-  float altitud = bmp.readAltitude(1013.25);    // Ajusta al nivel de presion del mar en tu area
+  float altitud = bmp.readAltitude(83);      //altitude de managua
   
-  // Enviar los datos en el formato correcto
+
   Serial.print(temperatura);
   Serial.print(",");
   Serial.print(presion);
   Serial.print(",");
   Serial.println(altitud);
   
-  delay(2000);  // Esperar 2 segundos antes de la siguiente lectura
+  delay(2000);  
 }
